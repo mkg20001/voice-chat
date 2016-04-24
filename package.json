@@ -1,0 +1,38 @@
+{
+  "name": "voice-chat",
+  "version": "1.0.0",
+  "description": "A simple Voice Chat in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkg20001/voice-chat.git"
+  },
+  "keywords": [
+    "voice",
+    "chat",
+    "socket.io"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mkg20001/voice-chat/issues"
+  },
+  "homepage": "https://github.com/mkg20001/voice-chat#readme",
+  "dependencies": {
+    "app-module-path": "^1.0.6",
+    "body-parser": "^1.15.0",
+    "colors": "^1.1.2",
+    "cookie-parser": "^1.4.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.13",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "socket.io": "^1.4.5",
+    "socket.io-stream": "^0.9.0"
+  }
+}
