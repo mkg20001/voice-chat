@@ -29,7 +29,7 @@
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
-    "mongoose": "^4.4.13",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "passport": "^0.3.2",
     "socket.io": "^2.0.0",
